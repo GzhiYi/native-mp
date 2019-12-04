@@ -1,6 +1,5 @@
 import create from '../../utils/create'
 import store from '../../store/index'
-
 //获取应用实例
 const app = getApp()
 
@@ -9,7 +8,8 @@ create.Page(store, {
     'motto',
     'userInfo',
     'hasUserInfo',
-    'canIUse'
+    'canIUse',
+    'a.name'
   ],
   computed: {
     reverseMotto(scope) {

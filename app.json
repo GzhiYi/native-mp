@@ -1,7 +1,7 @@
 {
   "pages": [
-		"pages/index/index",
-		"pages/index-with-data/index",
+    "pages/index-with-data/index",
+    "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {
